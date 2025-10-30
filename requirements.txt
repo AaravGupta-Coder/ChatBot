@@ -1,0 +1,11 @@
+streamlit
+numpy
+librosa
+soundfile
+scipy
+matplotlib
+pytest
+requests
+pydub
+uvicorn
+fastapi
